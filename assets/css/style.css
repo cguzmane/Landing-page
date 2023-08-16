@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(29, 142, 212, 0.652);
+}
+.hdr {
+  background-image: url(../imgs/header.jpeg);
+  padding: 7%;
+  color: goldenrod;
+  text-align: left;
+}
+.sub {
+  margin: 0px;
+}
+.img {
+  width: 30%;
+}
+.offer {
+  font-style: italic;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+.productos {
+  display: inline-block;
+  margin-top: 7%;
+  border: 16px;
+}
+.contenedor {
+  display: flex;
+}
+.footer {
+  background-color: blue;
+}
+.rights {
+  text-align: right;
+}
